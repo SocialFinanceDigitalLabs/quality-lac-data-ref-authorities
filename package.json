@@ -1,5 +1,8 @@
 {
   "name": "quality-lac-data-ref-authorities",
-  "version": "2021.4",
-  "license": "OGL-UK-3.0"
+  "version": "2021.4.0",
+  "license": "OGL-UK-3.0",
+  "engines": {
+    "npm": "7.x"
+  }
 }
